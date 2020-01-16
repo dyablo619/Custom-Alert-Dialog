@@ -1,2 +1,2 @@
-include ':app', ':customalertdialog2'
+include ':app', ':library'
 rootProject.name='CustomAlertDialog'
