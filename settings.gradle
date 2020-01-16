@@ -1,0 +1,2 @@
+include ':app', ':customalertdialog2'
+rootProject.name='CustomAlertDialog'
