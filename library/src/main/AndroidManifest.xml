@@ -1,2 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.svwebink.customalertdialog2" />
+    package="com.svwebink.customalertdialog2"
+    android:versionCode="2"
+    android:versionName="0.1.0"
+    />
